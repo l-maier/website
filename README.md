@@ -1,2 +1,3 @@
-# website
-Personal website
+# Website
+
+This is my attempt at my first real website.
